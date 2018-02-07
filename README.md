@@ -3,3 +3,5 @@
 Developed on the course the Rolling Scopes School (2017-q3)
 
 Developers: Olga Mardvilko, Andrei Shelenhouski
+
+Link: https://olgamardvilko.github.io/game/ 
